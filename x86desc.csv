@@ -428,10 +428,10 @@ OUTS	Output String to Port
 OUTSB	Output String to Port
 OUTSD	Output String to Port
 OUTSW	Output String to Port
-PABSB	Packed Absolute Value
-PABSD	Packed Absolute Value
-PABSQ	Packed Absolute Value
-PABSW	Packed Absolute Value
+PABSB	Packed Absolute Value Integers
+PABSD	Packed Absolute Value Integers
+PABSQ	Packed Absolute Value Integers
+PABSW	Packed Absolute Value Integers
 PACKSSDW	Pack with Signed Saturation
 PACKSSWB	Pack with Signed Saturation
 PACKUSDW	Pack with Unsigned Saturation
