@@ -461,7 +461,7 @@ PCMPESTRI	"Packed Compare Explicit Length Strings	 Return Index"
 PCMPESTRM	"Packed Compare Explicit Length Strings	 Return Mask"
 PCMPGTB	Compare Packed Signed Integers for Greater Than
 PCMPGTD	Compare Packed Signed Integers for Greater Than
-PCMPGTQ	Compare Packed Data for Greater Than
+PCMPGTQ	Compare Packed Signed Integers for Greater Than
 PCMPGTW	Compare Packed Signed Integers for Greater Than
 PCMPISTRI	"Packed Compare Implicit Length Strings	 Return Index"
 PCMPISTRM	"Packed Compare Implicit Length Strings	 Return Mask"
